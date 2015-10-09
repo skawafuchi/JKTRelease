@@ -1,0 +1,19 @@
+﻿oishii:delicious
+sakana:fish
+niku:meat
+menyuu:menu
+yasai:vegetable
+enpitsu:pencil
+kasa:umbrella
+kutsu:shoes
+saifu:wallet
+jiinzu:jeans
+jisho:dictionary
+jitensha:bicycle
+shinbun:newspaper
+teepu:tape
+tokei:watch
+toreenaa:sweat shirt
+nooto:notebook
+boushi:hat
+hon:book

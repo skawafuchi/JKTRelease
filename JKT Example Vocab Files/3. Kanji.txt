@@ -1,0 +1,15 @@
+﻿一:ichi,hito
+二:ni,futa
+三:san,mi
+四:shi,yo,yon
+五:go,itsu
+六:roku,mu,ro
+七:shichi,nana
+八:hachi,ya,ha
+九:kyuu,ku,kokono
+十:juu,tou
+百:hyaku,byaku,pyaku
+千:sen,zen
+万:man
+円:en
+時:ji,toki

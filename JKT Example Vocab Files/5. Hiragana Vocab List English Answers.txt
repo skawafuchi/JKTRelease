@@ -1,0 +1,19 @@
+﻿おいしい:delicious
+さかな:fish
+にく:meat
+メニュー:menu
+やさい:vegetable
+えんぴつ:pencil
+かさ:umbrella
+くつ:shoes
+さいふ:wallet
+ジーンズ:jeans
+じしょ:dictionary
+じてんしゃ:bicycle
+しんぶん:newspaper
+テープ:tape
+とけい:watch
+トレーナー:sweat shirt,banana
+ノート:notebook
+ぼうし:hat
+ほん:book
